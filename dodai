@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<meta charset="utf-8">
+<title>澄的筆記本</title>
+<style>
+.sumisumi { color:#FFA500; }
+.sumi {text-align: center; }
+body {background-position:center center;
+background-color: rgb(251,226,214); }
+body { background-repeat: no-repeat; }
+.cat{ border-width: 1px 5px;border-style: dotted;border-color: #FF7F50; text-align: right; }
+.dog{ text-align: left; }
+.dog{ letter-spacing: 10px; }
+.dog{ font-weight: bold; }
+.sumi { color: black; }
+.dog{ background-color:#FFFFF0; }
+.pig{ width:500px;
+      height:150px;
+      background-color: rgb(250,250,245); }
+.pig{ margin-right: 10px; }
+
+.pig{ position: relative; right: 10px; top: 180px; }
+.pig{ padding: 40px; }
+.panda{ position: relative; left: 700px; bottom: 100px; }
+.bird{ width:200px;
+      height:200px;
+      background-color: rgb(36,33,34); }
+.bird{ position: relative; left: 700px; top: 20px; }
+.bird{ color: rgb(250,250,245); }
+.bird{ margin-left: 10px; }
+.bird{ padding: 20px; }
+</style></head>
+<body>
+<h1 class="sumisumi">澄の日文，英文，作品集網站</h1>
+<ul>
+<h2 class="sumi">Bio<br></h2>
+<article class="sumi">すみです。（27）台湾生まれ。<br>趣味は語学勉強と絵とプログラミング。<br>毎日の学ぶことをシェアします。</article>
+</ul>
+
+<p class="dog">
+<nav><ul>
+<li><section>澄的日文筆記<br></li>
+<li>澄的英文筆記<br></li>
+<li>澄的國考學習筆記</section></li>
+</ul></nav>
+</p>
+<section>
+<p class="pig"><mark>5月10日的日文單字</mark><br>
+日本語：よりによって<br>
+意味：有更好的選項，卻選擇了不好的選項</p>
+</section>
+<figcaption><small>s u m i</small></figcaption>
+</body>
+</html>
