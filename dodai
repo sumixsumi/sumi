@@ -40,7 +40,7 @@ body { background-repeat: no-repeat; }
 
 <p class="dog">
 <nav><ul>
-<li><section>澄的日文筆記<br></li>
+<li><section><a href="https://sumixsumi.github.io/sumi/" target="_self">澄的日文筆記<br></a></li>
 <li>澄的英文筆記<br></li>
 <li>澄的國考學習筆記</section></li>
 </ul></nav>
